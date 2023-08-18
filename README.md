@@ -4,6 +4,11 @@ It's just an application to start using expo framework freom react native.
 
 It show how to use some expo packages and another basics elements.
 
+## install dependencies
+```
+npm install
+```
+
 ## RUN
 
 ```
